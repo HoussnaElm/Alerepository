@@ -1,0 +1,49 @@
+
+body{
+    background-color: khaki;
+}
+.highlight{
+    font-size: 5em;
+    color: darkorchid;
+    font-weight: 400;
+    position: relative;
+}
+
+.highlight2{
+    font-size: 7em;
+    color: darkmagenta;
+    text-decoration: double;
+}
+.anotherclass{
+    color: rgb(228, 83, 31);
+}
+
+.fseven{
+    font-size: 7em;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: line-through;
+}
+
+#exampleofid{
+    background-color: rgb(226, 124, 226)
+}
+
+.relative{
+    position-t;
+}
+
+button{
+    padding: 10px 20px ;
+    margin: 500px 10px 30px 10px;
+    background-color: rgb(132, 204, 176);
+    border: dashed deeppink;
+    
+}
+
+button:hover{
+    color: deeppink;
+    background-color: darkcyan;
+    content: 30px ;
+    font-size: x-large;
+}
