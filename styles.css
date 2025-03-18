@@ -1,6 +1,6 @@
 
 body{
-    background-color: khaki;
+    background-color: darkkhaki;
 }
 .highlight{
     font-size: 5em;
@@ -29,9 +29,7 @@ body{
     background-color: rgb(226, 124, 226)
 }
 
-.relative{
-    position-t;
-}
+
 
 button{
     padding: 10px 20px ;
